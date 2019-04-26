@@ -1,0 +1,19 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "description": "jasmine library for loggins on cloud",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "jasmine",
+    "logging"
+  ],
+  "author": "Bruno Campos",
+  "license": "ISC"
+}
