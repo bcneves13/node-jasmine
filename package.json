@@ -4,7 +4,8 @@
   "description": "jasmine library for loggins on cloud",
   "main": "index.js",
   "dependencies": {
-    "jasmine": "^3.4.0"
+    "jasmine": "^3.4.0",
+    "logger": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
