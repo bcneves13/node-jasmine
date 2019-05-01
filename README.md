@@ -1,4 +1,4 @@
-# airfluencers-python-logger
+# airfluencers-node-logger
 Biblioteca de log que segue as normas definidas pela airfluencers
 
 ## Requisitos:
