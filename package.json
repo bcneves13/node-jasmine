@@ -1,13 +1,14 @@
 {
-  "name": "jasmine",
+  "name": "Logger",
   "version": "1.0.0",
-  "description": "jasmine library for loggins on cloud",
+  "description": "logger library for loggins on cloud",
   "main": "index.js",
   "dependencies": {
-    "jasmine": "^3.4.0",
     "logger": "0.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  },
   "scripts": {
     "test": "jasmine"
   },
