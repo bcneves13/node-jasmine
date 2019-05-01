@@ -14,9 +14,3 @@ Biblioteca de log que segue as normas definidas pela airfluencers
 - Primeiro argumento gera campo message
 - Segundo argumento deve ser um dict com outros campos que vão dar merge no json
 - Primeira key do log gerado deve ser @timestamp, segunda level, terceira message.
-
-## Running Tests:
-Activate the virtualenv and:
-```bash
-nosetests
-```
