@@ -1,6 +1,6 @@
 {
-  "name": "Logger",
-  "version": "1.0.0",
+  "name": "airfluencers-logger",
+  "version": "1.0.4",
   "description": "logger library for loggins on cloud",
   "main": "index.js",
   "dependencies": {
